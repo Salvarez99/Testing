@@ -6,6 +6,17 @@ print("goodbye")
 # I added this comment in the main branch
 #branch_2 here, hello
 
+"""
+Branches:
+Pull
+Do work
+Add / Stage 
+Pull
+Commit
+Pull request to main
+
+"""
+
 def add(num : list) -> float:
     sum = 0
     for i in num:
