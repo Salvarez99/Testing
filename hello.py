@@ -8,7 +8,7 @@ print("goodbye")
 
 def add(num : list) -> float:
     sum = 0
-    for i in list:
+    for i in num:
         sum+= i
     return sum
   
